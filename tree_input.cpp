@@ -67,6 +67,7 @@ void printlevelwise(TreeNode<int>*root)
 }
 int main()
 {
+cout<<"hello";
         TreeNode<int> *t =takeinputlevelwise();
 printlevelwise(t);
 }
